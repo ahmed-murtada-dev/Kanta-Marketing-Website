@@ -1,9 +1,6 @@
-Kanta Marketing Agency Website
- ![Image Alt width="900](https://github.com/ahmed-murtada-dev/Kanta-Marketing-Website/blob/main/Frame%202.png?raw=true)
+# Kanta Marketing Agency Website
+ ![Image Alt](https://github.com/ahmed-murtada-dev/Kanta-Marketing-Website/blob/main/Frame%202.png?raw=true)
 <p align="center"> 
-  
-  https://github.com/ahmed-murtada-dev/Kanta-Marketing Website/blob/061c2f9904d7de6aa468ae6a9b076a881c1c0f4c/Frame%202.png
-  https://github.com/ahmed-murtada-dev/Kanta-Marketing-Website/blob/main/Frame%202.png?raw=true
 </p>
 
 ---
