@@ -1,7 +1,6 @@
 Kanta Marketing Agency Website
 
 <p align="center">
-  <img src="assets/preview.png" width="900" alt="Kanta Marketing Agency Website Design"/>
   ![image_alt](https://github.com/ahmed-murtada-dev/Kanta-Marketing-Website/blob/061c2f9904d7de6aa468ae6a9b076a881c1c0f4c/Frame%202.png)
 </p>
 
